@@ -4,7 +4,7 @@
 
 <br>
 
-Video presentation: <a href="https://www.youtube.com/watch?v=iJVlUnHPTBE">https://www.youtube.com/watch?v=iJVlUnHPTBE</a>
+Video presentation: <a href="https://www.youtube.com/watch?v=iJVlUnHPTBE target="_blank">https://www.youtube.com/watch?v=iJVlUnHPTBE</a>
 
 ### Table of content <br>
 
